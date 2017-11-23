@@ -1,4 +1,6 @@
-It's very easy to make some words **bold** and other words *italic* with Markdown. 
-You can even [link to Google!](http://google.com)
-<BR />
-[link to Beni Pando!](BeniPando/index.md)
+# BIENVENIDOS A BOLIVIA
+![Imagen Bolivia](http://boliviaemprende.com/wp-content/uploads/2014/07/imagen-bolivia.jpg)
+
+En esta página exploraremos el páis más hermoso del mundo (¡¡¡no lo decimos nosotros!!!)
+
+* [Beni y Pando](BeniPando/index.md)
