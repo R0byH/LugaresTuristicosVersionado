@@ -28,7 +28,7 @@ San Lorenzo.- comenzamos visitando San Lorenzo cuna del héroe de la independenc
 Destinos turísticos de Tarija ‘Recreacionales’
 Tomatitas.- situada a orillas del rió Guadalquivir esta localidad se encuentra a 5 km de la ciudad de Tarija.
 
-[Imagen]
+![Tomatitas](http://www.periodicolaregion.com/v2/media/k2/items/cache/d521b3285331148964fc0a459a826ae3_XL.jpg)
 
 Este destino turístico nos ofrece la gastronomía de los Cangrejitos de agua dulce, muy ricos y sabrosos.
 
@@ -36,7 +36,7 @@ Es un plato tradicional y lo puedes degustar con limón, papas, mote y pescadito
 
 Cercando la ciudad está la campiña tarijeña de espectacular belleza, San Jacinto, Tomatitas, Coimata, tolomosa, el Rincón de la Victoria son nombres de esto bellos paisajes que se encuentran entre los 5 y 15 km de la ciudad.
 
-[Imagen]
+![Rincon Victoria](http://www.elpaisonline.com/media/k2/items/cache/c5c5b877bfdd5ea9ba7d983e3b61c734_XL.jpg?t=1432361718)
 
 Tienes que conocer su historia, tradición y los muchos lugares turísticos de Tarija en “la ruta del Vino y los Singanis de altura”.
 
