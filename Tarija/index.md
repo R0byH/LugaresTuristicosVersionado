@@ -23,7 +23,7 @@ Para comenzar esta singular vivencia, déjese arrullar por el rubor del rió y d
 Lugares turísticos de Tarija ‘Históricos’
 San Lorenzo.- comenzamos visitando San Lorenzo cuna del héroe de la independencia Eustaquio Méndez más conocido como el Moto Méndez.
 
-![San Lorenzo] (https://upload.wikimedia.org/wikipedia/commons/1/15/Iglesia_de_San_Lorenzo_-_Tarija..jpg )
+![San Lorenzo] (https://octodex.github.com/images/Iglesia_de_San_Lorenzo_-_Tarija..jpg)
 
 Destinos turísticos de Tarija ‘Recreacionales’
 Tomatitas.- situada a orillas del rió Guadalquivir esta localidad se encuentra a 5 km de la ciudad de Tarija.
