@@ -23,4 +23,4 @@ Para comenzar esta singular vivencia, déjese arrullar por el rubor del rió y d
 Lugares turísticos de Tarija ‘Históricos’
 San Lorenzo.- comenzamos visitando San Lorenzo cuna del héroe de la independencia Eustaquio Méndez más conocido como el Moto Méndez.
 
-[Imagen]: https://upload.wikimedia.org/wikipedia/commons/1/15/Iglesia_de_San_Lorenzo_-_Tarija..jpg
+![Imagen]: https://upload.wikimedia.org/wikipedia/commons/1/15/Iglesia_de_San_Lorenzo_-_Tarija..jpg
