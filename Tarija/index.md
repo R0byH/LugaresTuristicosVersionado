@@ -15,3 +15,12 @@ Importantes monumentos históricos como la casa dorada, el castillo azul, el con
 La Ciudad de Tarija y sus provincias te ofrecen una variedad de atractivos para visitar.
 
 Conoce, disfruta, vive, siente y explora los lugares turísticos de Tarija Bolivia.
+
+
+## Provincias de Tarija ‘Pintorescos atractivos turísticos’
+Para comenzar esta singular vivencia, déjese arrullar por el rubor del rió y despierte con el trino de las aves.
+
+Lugares turísticos de Tarija ‘Históricos’
+San Lorenzo.- comenzamos visitando San Lorenzo cuna del héroe de la independencia Eustaquio Méndez más conocido como el Moto Méndez.
+
+![GitHub Logo](/img/Iglesia-San-Lorenzo.jpg)
